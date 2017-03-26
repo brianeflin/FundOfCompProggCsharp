@@ -1,0 +1,6 @@
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch01\HelloCSharpVS\HelloCSharpVS\bin\Debug\HelloCSharpVS.exe.config
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch01\HelloCSharpVS\HelloCSharpVS\bin\Debug\HelloCSharpVS.exe
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch01\HelloCSharpVS\HelloCSharpVS\bin\Debug\HelloCSharpVS.pdb
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch01\HelloCSharpVS\HelloCSharpVS\obj\Debug\HelloCSharpVS.csprojResolveAssemblyReference.cache
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch01\HelloCSharpVS\HelloCSharpVS\obj\Debug\HelloCSharpVS.exe
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch01\HelloCSharpVS\HelloCSharpVS\obj\Debug\HelloCSharpVS.pdb
