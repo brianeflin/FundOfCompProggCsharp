@@ -1,0 +1,6 @@
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch02\VariableExercises\VariableExercises\bin\Debug\VariableExercises.exe.config
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch02\VariableExercises\VariableExercises\bin\Debug\VariableExercises.exe
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch02\VariableExercises\VariableExercises\bin\Debug\VariableExercises.pdb
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch02\VariableExercises\VariableExercises\obj\Debug\VariableExercises.csprojResolveAssemblyReference.cache
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch02\VariableExercises\VariableExercises\obj\Debug\VariableExercises.exe
+C:\Users\brian\Projects\VisualStudio2017\FundOfCompProggCsharp\Ch02\VariableExercises\VariableExercises\obj\Debug\VariableExercises.pdb
